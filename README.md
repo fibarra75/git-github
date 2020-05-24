@@ -14,4 +14,6 @@ git log
 git checkout -- index.html #Vuelve el archivo a la versión que esta en el area de staging
 git diff index.html #Muestra la diferencia en el archivo
 git add * #Agregar archivos nuevos y modificados al area de staging
+git commit -m "Se modifico el index.html y README"
 
+#Para ignorar archivos y/o carpetas en el traspado a staging area, se utiliza el archivo .gitigonore
