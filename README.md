@@ -2,7 +2,7 @@
 ## Video de referencia
 https://www.youtube.com/watch?v=HiXLkL42tMU\
 
-Incializar git en el proyecto\
+Inicializar git en el proyecto\
 git init\
 Agrega el archivo app.js al staging area\
 git add app.js\
@@ -38,8 +38,8 @@ git commit -m "Nueva rama con login"\
 git log\
 git branch\
 Vuelve a la rama master\
-git checkout master\
+git checkout master
 ## Enlazar con repositorio en github\
 git remote add origin https://github.com/fibarra75/git-github.git\
 Sube la version de repository al github\
-git push -u origin master\
+git push -u origin master
