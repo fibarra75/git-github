@@ -42,4 +42,4 @@ git checkout master
 Enlazar con repositorio en github
 git remote add origin https://github.com/fibarra75/git-github.git
 Sube la version de repository al github
-git push -u origin master #sube version directory a remoto
+git push -u origin master
