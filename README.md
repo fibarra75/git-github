@@ -1,12 +1,12 @@
 # Uso comando git para manejar versiones de los archivos y subir version a github
-##Video de referencia
-https://www.youtube.com/watch?v=HiXLkL42tMU
+## Video de referencia
+https://www.youtube.com/watch?v=HiXLkL42tMU\
 
-Incializar git en el proyecto
-git init 
-Agrega el archivo app.js al staging area
-git add app.js
-Ve el estado de los archivos en la carpeta/directorio
+Incializar git en el proyecto\
+git init\
+Agrega el archivo app.js al staging area\
+git add app.js\
+Ve el estado de los archivos en la carpeta/directorio\
 git status
 Agrega todo los archivos de la carpeta al staging area
 git .
