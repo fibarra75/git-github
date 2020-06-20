@@ -43,3 +43,9 @@ git checkout master
 git remote add origin https://github.com/fibarra75/git-github.git \
 Sube la version de repository al github\
 git push -u origin master
+
+Eliminar rama remota
+git push origin --delete <branchName>
+  
+Subir rama a github
+git push -u origin session-1
