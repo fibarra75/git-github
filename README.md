@@ -39,7 +39,7 @@ git log\
 git branch\
 Vuelve a la rama master\
 git checkout master
-## Enlazar con repositorio en github\
+## Enlazar con repositorio en github  
 git remote add origin https://github.com/fibarra75/git-github.git \
 Sube la version de repository al github\
 git push -u origin master
@@ -50,6 +50,9 @@ git push origin --delete <branchName>
 Subir rama a github 
 git push -u origin session-1 
 
-Clona una rama  
+Clonar rama master  
+git clone https://github.com/fibarra75/BE-CLUB-001.git  
+
+Clonar una rama  
 git clone -b session-2 https://github.com/fibarra75/BE-CLUB-001.git
 
