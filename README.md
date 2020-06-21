@@ -47,7 +47,7 @@ git push -u origin master
 Eliminar rama remota
 git push origin --delete <branchName>
   
-Subir rama a github 
+Subir rama a github  
 git push -u origin session-1 
 
 Clonar rama master  
