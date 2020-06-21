@@ -47,5 +47,9 @@ git push -u origin master
 Eliminar rama remota
 git push origin --delete <branchName>
   
-Subir rama a github
-git push -u origin session-1
+Subir rama a github 
+git push -u origin session-1 
+
+Clona una rama 
+git clone -b session-2 https://github.com/fibarra75/BE-CLUB-001.git
+
