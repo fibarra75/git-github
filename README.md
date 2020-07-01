@@ -1,6 +1,7 @@
 # Uso comando git para manejar versiones de los archivos y subir version a github
 ## Video de referencia
 https://www.youtube.com/watch?v=HiXLkL42tMU\
+https://dev.to/g_abud/advanced-git-reference-1o9j
 
 Inicializar git en el proyecto\
 git init\
